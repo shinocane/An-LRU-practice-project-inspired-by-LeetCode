@@ -1,5 +1,5 @@
 # An-LRU-practice-project-inspired-by-LeetCode
-After finishing the problem Leetcode146,I made this project. It's a more detailed and pratical version.
+After finishing the problem Leetcode146,I made this project. It's a more detailed and practical version.And think perhaps it could be applied somewhere like a small game needed to clear cache
 # C++ LRU Cache Simulator
 
 ## 项目简介
